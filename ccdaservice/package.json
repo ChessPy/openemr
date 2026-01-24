@@ -8,7 +8,7 @@
     "license": "GPL-3.0",
     "dependencies": {
         "file": "./oe-blue-button-generate",
-        "lodash": "4.17.21",
+        "lodash": "4.17.23",
         "net": "1.0.2",
         "xmljson": "0.2.0"
     },
